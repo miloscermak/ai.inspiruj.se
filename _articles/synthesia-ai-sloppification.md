@@ -1,9 +1,9 @@
 ---
-title: "Šéf Synthesie napsal memo proti „AI bahnu\". Když psaní zlevnilo na nulu, čtení ne"
+title: "Psaní zlevnilo, ale čtení ne, napsal šéf AI firmy Synthesia svým zaměstnancům. Je to dobré připomenutí i pro nás ostatní"
 date: 2026-05-01
 source_name: The Times
 source_url: https://www.thetimes.co.uk
-excerpt: "Victor Riparbelli, šéf AI firmy Synthesia, varoval své lidi před přemírou AI psaní. Memo, které poprvé pojmenovává skutečnou cenu produktivity."
+excerpt: "Victor Riparbelli, šéf AI firmy Synthesia, varoval své lidi před tím, aby firemní komunikaci zahlcovali texty vygenerovanými AI. Sice sami ušetří čas, ale zatěžují všechny ostatní."
 ---
 
 Když si Victor Riparbelli, šéf londýnské AI firmy Synthesia, sedl ke psaní mema pro zaměstnance, mohl si vybrat z tisíce témat. Synthesia má valuaci čtyři miliardy dolarů, prodává AI videa devadesáti procentům firem z žebříčku Fortune 500, a kdykoli se Riparbelli rozhodne, že chce být zase trochu "vidět", může napsat zaměstnancům v podstatě cokoli. Vždycky bude mít pozornost médií i investorů. Ale on si vybral tohle: prosbu, aby jeho lidé přestali tolik používat AI při psaní dokumentů.
