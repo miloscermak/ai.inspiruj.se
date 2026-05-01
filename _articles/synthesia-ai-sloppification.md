@@ -8,7 +8,7 @@ excerpt: "Victor Riparbelli, šéf AI firmy Synthesia, varoval své lidi před t
 
 Když si Victor Riparbelli, šéf londýnské AI firmy Synthesia, sedl ke psaní mema pro zaměstnance, mohl si vybrat z tisíce témat. Synthesia má valuaci čtyři miliardy dolarů, prodává AI videa devadesáti procentům firem z žebříčku Fortune 500, a kdykoli se Riparbelli rozhodne, že chce být zase trochu "vidět", může napsat zaměstnancům v podstatě cokoli. Vždycky bude mít pozornost médií i investorů. Ale on si vybral tohle: prosbu, aby jeho lidé přestali tolik používat AI při psaní dokumentů.
 
-Konkrétně varoval před tím, čemu říká „AI slopem", slovo, které bychom do češtiny přeložili nejlíp asi jako „AI bahno". Nebo "AI kompost". Texty plné vaty, „pages of fluff", které nikdo nechce číst. A to i v běžné firemní komunikace
+Konkrétně varoval před tím, co nazývá „AI slopem", termínem, který bychom do češtiny přeložili nejlíp asi jako „AI bahno". Nebo "AI kompost". Texty plné vaty, „pages of fluff", které nikdo nechce číst. A to i v běžné firemní komunikace
 
 Riparbelli ještě přidal zajímavou aritmetiku, která v této souvislosti ještě moc často nezaznělo. „Místo aby jeden člověk strávil deset minut tím, že text napíše líp, tak pak deset lidí stráví deset minut čtením bahna. Čistě negativní produktivita."
 
