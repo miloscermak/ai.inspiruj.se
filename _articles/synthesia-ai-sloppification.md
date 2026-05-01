@@ -6,36 +6,38 @@ source_url: https://www.thetimes.co.uk
 excerpt: "Victor Riparbelli, šéf AI firmy Synthesia, varoval své lidi před přemírou AI psaní. Memo, které poprvé pojmenovává skutečnou cenu produktivity."
 ---
 
-Když si Victor Riparbelli, šéf londýnské AI firmy Synthesia, sedl ke psaní firemního memo, mohl si vybrat z tisíce témat. Synthesia má valuaci čtyři miliardy dolarů, prodává AI videa devadesáti procentům Fortune 500, a kdyby se Riparbelli zítra rozhodl, že chce být zase trochu vidět, mohl by mluvit o čemkoli. On si vybral tohle: prosbu, aby jeho lidé přestali tolik používat AI při psaní dokumentů.
+Když si Victor Riparbelli, šéf londýnské AI firmy Synthesia, sedl ke psaní mema pro zaměstnance, mohl si vybrat z tisíce témat. Synthesia má valuaci čtyři miliardy dolarů, prodává AI videa devadesáti procentům firem z žebříčku Fortune 500, a kdykoli se Riparbelli rozhodne, že chce být zase trochu "vidět", může napsat zaměstnancům v podstatě cokoli. Vždycky bude mít pozornost médií i investorů. Ale on si vybral tohle: prosbu, aby jeho lidé přestali tolik používat AI při psaní dokumentů.
 
-Konkrétně varoval před tím, čemu říká „AI sloppification" — slovo, které do češtiny překládá nejlíp asi jako „AI bahnění". Texty plné vaty, „pages of fluff", které nikdo nechce číst. A přidal aritmetiku, která je možná nejdůležitější věcí, jakou v té debatě někdo letos řekl. „Místo aby jeden člověk strávil deset minut zostřením dokumentu, deset lidí stráví deset minut čtením bahna. Čistě negativní produktivita."
+Konkrétně varoval před tím, čemu říká „AI slopem", slovo, které bychom do češtiny přeložili nejlíp asi jako „AI bahno". Nebo "AI kompost". Texty plné vaty, „pages of fluff", které nikdo nechce číst. A to i v běžné firemní komunikace
 
-Stručně: AI píše rychleji. Lidé čtou stejně dlouho.
+Riparbelli ještě přidal zajímavou aritmetiku, která v této souvislosti ještě moc často nezaznělo. „Místo aby jeden člověk strávil deset minut tím, že text napíše líp, tak pak deset lidí stráví deset minut čtením bahna. Čistě negativní produktivita."
 
-Riparbelli to formuloval z vnitřku firmy, která žije z toho, že lidé nechají AI mluvit za sebe. To je pikantní v míře, jakou dnešní AI marketing málokdy vyrobí omylem. A přesně proto stojí za pozornost. On nevolá po zákazu nástrojů — říká, že je špatně používáme.
+Stručně: AI píše rychleji. Lidé čtou stejně dlouho. Nebo použijí i ke čtení AI, a to celé je ve výsledku v podstatě zbytečné.
+
+Riparbelli to formuloval za vedení firmy, jejíž zaměstnanci vyslyšeli volání po produktivitě, a některé činnosti "delegovali" na AI. Tak se to přece na workshopech učí. A co dnes AI umí nejlépe? Přece psát. Jenže psaní je zároveň způsobem, jak lidé formulují a předávají ostatním své myšlenky. Riparbelli neříká, že AI zaměstnanci nemají používat. Ale všímá si, že teď AI mnozí používají špatně.
 
 Má to dvě roviny. Tu evidentní a tu důležitou.
 
-Evidentní rovina je kvalita. Velké jazykové modely mají vrozený tah ke zředění. Když je prosíte o stručnost, dají vám ji. Když je necháte volně, vyplodí prostor ve formátu nadpis–odstavec–shrnutí, kde každá věta zní hladce a žádná neříká nic, co byste si nepomysleli sami. Není to chyba modelu. Je to chyba lidí, kteří generují, ale neredigují. Stiskli enter a nehnuli s tím prstem.
+Evidentní rovina je kvalita. Velké jazykové modely mají vrozený sklon k formální dokonalosti. Když je prosíte o stručnost, vyhoví vám. Když naopak budete chtít text prodloužit, vyhoví vám taky. Jenže ho prodlouží o věty, které v podstatě neříkají nic nového. Takže jsou zbytečné. 
 
-Důležitá rovina je ekonomická. A ta začíná dávat dohromady čísla, která ještě před rokem vypadala jako neviditelné externality.
+Není to chyba AI. Je to chyba lidí, kteří "vytvářejí" texty, ale nedodají AI potřebný obsah. Stisknou enter a čekají, že se tam obsah (= jejich přidaná hodnota) nějak tajemně objeví. Ale neobjeví. AI nástroje jsou výjimečně efektivní, ale neumí čarovat.
 
-Lednová studie Harvard Business Review, kterou připravily BetterUp Labs a Stanford, zjistila, že 41 procent zaměstnanců se v práci setkalo s tím, čemu se anglicky začalo říkat workslop — výstup, který vypadá jako práce, ale při bližším pohledu se rozpadá. Každý takový dokument stojí příjemce zhruba dvě hodiny dodatečné práce, protože musí zjistit, co tím autor (nebo autorka, nebo ten model) vlastně chtěl říct. Pro firmu o deseti tisících zaměstnanců to v souhrnu znamená kolem devíti milionů dolarů ročně. Útrata, která se neukazuje v žádném reportu, protože ji nese ten, kdo čte, ne ten, kdo píše.
+No a následuje rovina ekonomická. Využití AI výše popsaným způsobem nedává ekonomický smysl. 
 
-Tady je ten skutečný posun. Psaní zlevnilo na nulu. Čtení ne.
+Lednová studie Harvard Business Review, kterou připravily BetterUp Labs a Stanford, zjistila, že 41 procent zaměstnanců se v práci setkalo s tím, čemu se anglicky začalo říkat workslop. Každý takový dokument stojí příjemce zhruba dvě hodiny dodatečné práce, protože musí zjistit, co jím autor (nebo autorka, ať už je to živý kolega, nebo firamní AI) vlastně chtěl říct. Pro firmu s deseti tisíci zaměstnanci to v souhrnu znamená kolem devíti milionů dolarů ročně. Útrata, která se neukazuje v žádném reportu, protože ji nese ten, kdo čte, ne ten, kdo píše.
 
-Riparbelliho memo je takhle prvním zaznamenaným manažerským přiznáním téhle asymetrie. Dosud platilo nepsané pravidlo, že pokud někomu nástroj urychlí výstup, je to čistá výhra. AI ovšem narušila tuhle bilanci způsobem, který zpočátku nebyl vidět: producent ušetří, konzument zaplatí.
+A to je to nejpodstatnější. Psaní zlevnilo na nulu. Čtení ne.
 
-A producentů přibývá závratným tempem. Stanford spolu s Imperial College a Internet Archive zveřejnili studii, podle které je třetina všech nových webů spuštěných od konce roku 2022 generovaná AI. Originality.ai změřil, že přes padesát procent dlouhých příspěvků na LinkedIn je pravděpodobně psáno modelem — a co je horší, dostávají o 45 procent méně reakcí než texty psané člověkem. Merriam-Webster letos zvolil slovo „slop" slovem roku. Bez rozpaků a bez ironie.
+Riparbelliho memo je asi prvním zaznamenaným manažerským přiznáním téhle asymetrie. Dosud platilo nepsané pravidlo, že pokud někomu nástroj urychlí výstup, je to čistá výhra. AI ovšem narušila vyrovnanou bilanci způsobem, který na první pohled není zjevný: autor ušetří, čtenář zaplatí.
 
-V tomhle kontextu je Riparbelliho memo zajímavé právě svou triviální jednoduchostí. Neříká „regulujme AI". Říká: nevyrábějte zbytečné věci, kvůli kterým budou ostatní zbytečně přepracovaní. Ostatně, to je pravidlo, které platilo i před AI. AI ho jen vyhrotila do absurdity, protože poprvé v historii umožnila vyrobit něco, co vypadá jako přemýšlení, aniž by to přemýšlení bylo.
+A "autorů" přibývá závratným tempem. Stanford spolu s Imperial College a Internet Archive zveřejnili studii, podle které je třetina všech nových webů spuštěných od konce roku 2022 generovaná AI. Originality.ai změřil, že přes padesát procent dlouhých příspěvků na LinkedIn je pravděpodobně psáno AI (a je to vidět i ve statitsikách, protože příspěvky generované AI mají o 45 procent méně interakcí než příspěvky psané lidmi). Merriam-Webster zvolil „slop" slovem roku. 
 
-Z povahy věci se z toho stane manažerský problém. Ne technologický, ne morální. Manažerský. Firmy, které dokážou tuhle disciplínu nastolit — krátké dokumenty, jasné teze, vlastní hlas, nikoliv hlas modelu — získají náskok ne proto, že by AI nepoužívaly, ale proto, že ji budou umět používat tak, aby konečným měřítkem nebyla rychlost výstupu, ale srozumitelnost vstupu pro dalšího člověka v řadě.
+V tomhle kontextu je Riparbelliho memo zajímavé právě svou triviální srozumitelností. Neříká „regulujme AI". Říká: přestaňme ve firmě dělat zbytečné věci, které ostatním nijak nepomáhají, ale naopak přidělávají práci. Což mimochodem platilo i před AI. Ale nebylo to ještě ani zdaleka tak jednoduché jako dnes.
 
-Riparbelli má v tomhle ohledu výhodu. Stojí v čele firmy, která žije z přesvědčení, že generování obsahu má smysl, jen pokud ho má smysl konzumovat. Jeho memo si tak lze přečíst i jako vzkaz zákazníkům: nezaplavte trh AI obsahem. Ne každá vygenerovaná věta si zaslouží být napsaná.
+Je to problém manažerský, ne technický. Vlastně ani ne morální. Když média budou svým konzumentům nabízet obsah, který bude generovaný AI (a neřeknou jim to), lze to brát jako nemorální. Je to do jisté míry podvod. Ale tyto kategorie v běžné práci ve firmě nepoužíváme.
 
-Krátká věta na závěr, která zní jako klišé, ale není. Produktivita není rychlost psaní. Produktivita je čas, který někomu ušetříte. AI v tom umí být nástroj i překážka — záleží, kdo drží kurzor.
+Firmy musí nastavit workflow tak, aby zvyšovala efektivitu všem, ne jen někomu. A zároveň nesmí sklouznout k pouhému zakazování nebo regulování AI, protože jde o technologii, která může efektivitu nevídaným a revolučním způsobem zvyšovat. Jen je třeba ji používat chytře a správně.
 
----
+Riparbelli je nvíc šéfem firmy, která generativní AI prodává svým zákazníkům. Takže interní memo lze číst i jako vzkaz navenek. Nezaplavte trh obsahem, který budete generovat jen proto, že je to možné. Vymyslete to tak, ať jste stále schopni dodávat do svých výstupů přidanou hodnotu. Protože jedině to vám přinese zákazníky.
 
-*Vychází z článku „Synthesia boss warns against danger of 'AI sloppification'" Chrise Dorrella, The Times. Doplněno o údaje ze studie Harvard Business Review (BetterUp Labs / Stanford, leden 2026), výzkumu Stanford / Imperial College / Internet Archive a měření Originality.ai.*
+Krátká věta na závěr, která zní jako klišé, ale nemusí být. Produktivita není funkcí času ani velilkosti výstupu. Produktivita je to, co ušetříte v součtu sobě, svým kolegům i svým zákazníkům. A je jedno, jestli budete měřit produktivitu počtem slov, časem, nebo penězi. AI vám v tom dokáže pomoct. Ale možná trochu složitěji, než si dnes mnozí představujeme.
