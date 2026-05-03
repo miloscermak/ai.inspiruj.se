@@ -1,5 +1,5 @@
 ---
-title: "SI hudba prozkoumává nečekané zdroje inspirace. Třeba toxické textovky od expartnerů"
+title: "AI hudba prozkoumává nečekané zdroje inspirace. Třeba toxické textovky od expartnerů"
 date: 2026-05-02
 image: ai-textovky-od-ex-hity.png
 source_name: The Times
