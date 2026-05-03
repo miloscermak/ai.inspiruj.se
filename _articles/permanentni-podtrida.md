@@ -1,0 +1,30 @@
+---
+title: "Programátoři v San Francisku se bojí, že automatizují sami sebe. Nahlas o tom začali mluvit ti, kdo to dělají"
+date: 2026-05-03
+image: permanentni-podtrida.png
+source_name: The New York Times
+source_url: https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html
+excerpt: "V Silicon Valley se přestal odehrávat příběh o epoše hojnosti. Inženýři, kteří AI staví, sami šeptem mluví o ‚permanentní podtřídě‘ — a poprvé se ocitají na straně automatizovaných."
+---
+
+# Programátoři v San Francisku se bojí, že automatizují sami sebe. Nahlas o tom začali mluvit ti, kdo to dělají
+
+V Silicon Valley se v posledních měsících přestal odehrávat příběh o tom, jak umělá inteligence nastartuje epochu hojnosti. Místo něj se vede tišší a méně sebevědomá debata: o tom, co se stane s lidmi, jejichž práci stroje brzy zvládnou. Reportérka Jasmine Sun strávila zimu rozhovory s inženýry, investory a zakladateli a v New York Times popsala atmosféru, kterou nazvala „san franciským konsenzem". Většina jejích zdrojů věří, že pokročilá AI překoná lidské schopnosti, vyvolá obrovský růst — a zároveň připraví miliony lidí o ekonomickou váhu. Nikdo ovšem nemá jasno v tom, co s tím.
+
+Termín „permanent underclass", permanentní podtřída, přitom není nový. Sociologové ho používali v šedesátých letech pro tovární dělníky, jejichž místa pohltila automatizace. V poslední době se vrátil v podobě virálního memu: lidé prý mají omezené okno, ve kterém ještě stihnou nahromadit majetek — než AI a robotika dorostou tak, že lidská práce ztratí smysl. Pak se podle této logiky všichni zamrazí ve své současné třídní pozici, bohatí dostanou superinteligentní pomocníky, ostatní budou žít z dávek. Většina ekonomů scénář považuje za přepálený. Že o něm ale šeptem mluví i lidé, kteří AI staví, je samo o sobě signál.
+
+Šéf Anthropicu Dario Amodei strávil minulý rok na mediálním kolečku, kde varoval, že do roku 2030 může zmizet polovina entry-level pozic v bílých límečcích. V eseji na vlastním blogu zašel ještě dál: AI prý může vytvořit „nezaměstnanou nebo velmi nízkopříjmovou podtřídu" lidí s „nižšími intelektuálními schopnostmi", která se bude postupně rozšiřovat. Riziko podle něj není jen ekonomické — bez ekonomické páky průměrného člověka se podle něj otřásá samotná demokracie. Anthropic přitom paradoxně vydělává právě na tom: jeho roční tržby vystoupaly z devíti miliard na konci roku 2025 na třicet miliard letos na jaře, hlavně díky agentům typu Claude Code, kteří dovedou samostatně pracovat na úkolech celé hodiny.
+
+Mechanismus, kterým se „podtřída" vyrábí, je do velké míry tržní. Vývoj modelů se hodnotí podle benchmarků, které čím dál víc přímo měří, jak dobře AI nahrazuje konkrétní lidské profese. OpenAI zveřejnila benchmark GDPVal pro 44 povolání od realitních makléřů po analytiky zpráv. Index od firmy Mercor srovnává modely s investičními bankéři, konzultanty a lékaři primární péče. Šéfka „frontier evaluations" v OpenAI Tejal Patwardhan v rozhovoru zmínila kolegyni, bývalou bankéřku, která žasne, kolik její dřívější agendy modely zvládnou. „Před pár měsíci žádný model neměl úroveň lidského experta. Dnes máme přes osmdesát procent výher proti lidem."
+
+A co dělají firmy, které ty modely kupují? Zrychlují propouštění. Když Block (mateřská firma Cash Appu) v březnu propustil skoro polovinu zaměstnanců, jeho šéf Jack Dorsey to v rozhovoru pro Wired vysvětlil tím, že kódovací agenti „nabídli možnost dramaticky změnit, jak je firma postavená". Akcie po oznámení vyskočily o pětadvacet procent. Ekonomka Zoë Hitzig, dříve v OpenAI, dodává, že tahle dynamika dělá změny rychlejšími, než by diktovala samotná efektivita: „Když manažeři říkají, že škrtají kvůli AI, jiní mají pocit, že musejí taky."
+
+Politickou stránku věci zatím nikdo nezvládá. Sam Altman ještě v roce 2021 psal, že nezastavitelná AI přesune moc od práce ke kapitálu a že to bude vyžadovat agresivní zdanění aktiv — hlavně půdy a podílů v AI firmách. Když ale do OpenAI nastoupil veterán lobbingu Chris Lehane, podle více zdrojů se v interních materiálech přestaly upřednostňovat studie s nepříjemnými výsledky a komunikace se otočila k pozitivním číslům HDP. Letos v dubnu OpenAI sice vydala bílou knihu, která navrhuje 32hodinový pracovní týden, vyšší daně z kapitálu nebo „veřejný majetkový fond" s podíly v AI firmách pro všechny občany. Ale konkrétní legislativu, kterou by firma podporovala, mluvčí nedokázal jmenovat. Pro-AI super PAC Leading The Future — financovaný mimo jiné prezidentem OpenAI Gregem Brockmanem — zatím investoval přes dva miliony dolarů do reklam proti newyorskému kandidátovi do Kongresu Alexi Boresovi, který navrhl dividendu pro občany financovanou zdaněním AI.
+
+Nejzajímavější část článku Sun ale není o politice ani o šéfech. Je o tom, že se v San Francisku poprvé objevuje něco, co odborníci na trh práce dlouho nečekali: třídní solidarita mezi mladými programátory s šestimístnými platy a dělníky z deindustrializovaných regionů. Molly Kinder z Brookings Institution, která dělá rozhovory s vyděšenými vysokoškoláky, tvrdí, že jejich příběh je téměř totožný s vyprávěním zapomenutých dělníků z amerického vnitrozemí. Kdo je dosud na druhé straně automatizace zvyklý byl ten, kdo automatizuje. Pro celé jedno povolání je nová zkušenost být na straně automatizovaných.
+
+Přesný scénář, ve kterém AI vyrobí „permanentní" podtřídu, není pravděpodobný a většina ekonomů ho nečeká. Pravděpodobnější je střízlivější, ale stejně nepříjemná verze: kariérní žebřík se přeruší pro celé generace mladých zaměstnanců v účetnictví, marketingu, designu nebo administrativě. Britský ekonom Carl Benedikt Frey to v článku formuluje suše: „Většina ekonomů uzná, že technologický pokrok způsobí krátkodobé adaptační problémy. Zřídka se ale dodává, že to krátké období může být celý život."
+
+---
+
+*Vychází z článku „Silicon Valley Is Bracing for a Permanent Underclass" od Jasmine Sun, The New York Times, 30. dubna 2026. Doplněno o aktuální data o tržbách Anthropicu (Yahoo Finance, duben 2026) a o detaily Boresova plánu „AI Dividend" (Axios, duben 2026).*
