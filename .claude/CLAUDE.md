@@ -130,3 +130,5 @@ python generate_image.py "popis scény" nazev-ilustrace.png
 ```
 
 Skript automaticky přidává stylový prefix — stačí popsat obsah scény. `--raw` pro vlastní styl, `--aspect` pro poměr stran. API klíč se čte z `.env` (`GEMINI_API_KEY`), model `gemini-2.5-flash-image`. Hotové PNG ulož do kořenu Explainer pod jménem, které sedí s `image:` ve frontmatteru.
+
+Systémový python na Macu je externally-managed (PEP 668), proto skript běží přes lokální venv: `.venv/bin/python generate_image.py "..."`. Pokud `.venv` neexistuje, vytvoř ho: `python3 -m venv .venv && .venv/bin/pip install python-dotenv google-genai pillow`.
