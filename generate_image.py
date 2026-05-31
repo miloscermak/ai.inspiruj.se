@@ -72,7 +72,6 @@ def generate_image(
         contents=full_prompt,
         config=types.GenerateContentConfig(
             response_modalities=["IMAGE"],
-            response_mime_type="image/png",
         ),
     )
 

@@ -1,6 +1,6 @@
 # Publish Explainer — publikační skill
 
-Publikuje hotový explainer článek na ai.inspiruj.se (repo miloscermak/novinky).
+Publikuje hotový explainer článek na ai.inspiruj.se (repo `miloscermak/ai.inspiruj.se`; staré jméno `miloscermak/novinky` se na něj přesměrovává).
 
 ## Trigger
 
@@ -8,7 +8,7 @@ Použij tento skill když uživatel řekne: "publikuj", "publish", "dej to ven",
 
 ## Předpoklady
 
-V kořenové složce Explainer (`/sessions/.../mnt/Explainer/`) musí existovat:
+V kořenové složce Explainer (`~/cowork/Explainer/`) musí existovat:
 1. Hotový `.md` soubor článku (s YAML frontmatter: title, date, image, source_name, source_url, excerpt)
 2. PNG ilustrace (soubor uvedený v `image:` frontmatteru)
 
@@ -21,7 +21,7 @@ V kořenové složce Explainer (`/sessions/.../mnt/Explainer/`) musí existovat:
 
 ### 2. Přesun do _articles/
 ```bash
-cp /sessions/.../mnt/Explainer/clanek.md /sessions/.../mnt/Explainer/_articles/clanek.md
+cp clanek.md _articles/clanek.md
 ```
 
 ### 3. Ověření ilustrace
@@ -29,13 +29,13 @@ Ilustrace (PNG) musí být v kořenové složce Explainer — build.py ji automa
 
 ### 4. Build test
 ```bash
-cd /sessions/.../mnt/Explainer && python3 build.py
+python3 build.py
 ```
 Ověř, že build proběhl bez chyb.
 
 ### 5. Git commit a push
+Normální git přímo z Macu — žádný token-workaround ani klonování do temp:
 ```bash
-cd /sessions/.../mnt/Explainer
 git add _articles/clanek.md clanek-ilustrace.png
 git commit -m "Nový článek: Titulek článku"
 git push origin main
@@ -44,9 +44,8 @@ git push origin main
 ### 6. Informování uživatele
 Po úspěšném push:
 - Oznámit, že článek bude live za ~30 sekund (Netlify rebuild)
-- Poskytnout URL článku: `https://novinky.inspiruj.se/articles/slug.html`
-- Poskytnout admin editor URL: `https://novinky.inspiruj.se/admin/` pro případné rychlé úpravy
-- Poznámka: v admin editoru je potřeba GitHub Personal Access Token (ghp_...)
+- Poskytnout URL článku: `https://ai.inspiruj.se/articles/slug.html`
+- Poskytnout admin editor URL: `https://ai.inspiruj.se/admin/` pro případné rychlé úpravy
 
 ## Důležité
 
