@@ -4,7 +4,7 @@ date: 2026-06-07
 source: "When AI Builds Itself, Anthropic Institute"
 source_url: "https://www.anthropic.com/institute/recursive-self-improvement"
 image: anthropic-stin-rsi.png
-excerpt: "Anthropic vydal dokument o rekurzivním sebezdokonalování AI — situaci, kdy stroj autonomně navrhuje svého nástupce. Vypadá to jako prognóza. Při bližším čtení je to ale spíš zpráva o tom, jak firma funguje teď."
+excerpt: "Anthropic vydal dokument o rekurzivním sebezdokonalování AI. Vypadá to jako prognóza. Při bližším čtení je to ale spíš zpráva o tom, jak firma funguje teď."
 ---
 
 Marina Favaro a Jack Clark vydali pod hlavičkou nově ustaveného Anthropic Institute dokument s nenápadným názvem „Když AI staví AI". Píšou v něm o takzvaném rekurzivním sebezdokonalování, což zní jako celkem nudný technický termín, avšak ve skutečnosti jde o velkou věc.
