@@ -132,3 +132,11 @@ python generate_image.py "popis scény" nazev-ilustrace.png
 Skript automaticky přidává stylový prefix — stačí popsat obsah scény. `--raw` pro vlastní styl, `--aspect` pro poměr stran. API klíč se čte z `.env` (`GEMINI_API_KEY`), model `gemini-2.5-flash-image`. Hotové PNG ulož do kořenu Explainer pod jménem, které sedí s `image:` ve frontmatteru.
 
 Systémový python na Macu je externally-managed (PEP 668), proto skript běží přes lokální venv: `.venv/bin/python generate_image.py "..."`. Pokud `.venv` neexistuje, vytvoř ho: `python3 -m venv .venv && .venv/bin/pip install python-dotenv google-genai pillow`.
+
+## Poznámky z redakční praxe (z předělaných článků)
+
+Tohle vychází z toho, jak Miloš přepisoval hotové drafty. Ber jako korekci výchozího nastavení skillu.
+
+- **Konceit z názvu nebo tématu jako nosný rámec.** Když téma samo nabízí slovní hříčku nebo přirovnání (model jménem Fable = bajka), postav na něm páteř celého textu — otevři jím a vyplať ho v závěru (článek o Fable: úvod „bajka má morální ponaučení" → konec „a jaké ponaučení? Já ne"). Silnější než otevřít chronologií nebo definicí. Sedí to k filozofii titulků (paradox/rčení místo popisu).
+- **U rychlého zvratu je zprávou ten zvrat.** Když se příběh během pár dní obrátí (model vydán → vzápětí stažen), páteří článku je ten obrat a ironie kolem něj, ne feature-tour „co model umí / jak ho vyzkoušet". Schopnosti se smrsknou na „o co svět přišel". Sekce typu „jak začít / jak vyzkoušet" do textu o aktuální události nepatří.
+- **Někdy chce Miloš první-osoba sloupek, ne explainer ve třetí osobě.** Hlavně u AI témat, kde má vlastní hands-on zkušenost. V tom režimu je v pořádku: první osoba („testoval jsem", „vsadil bych se"), osobní zkušenost jako důkaz (vlastní test, workshop, „slepá degustace"), řečnické otázky na čtenáře a otevřený, klidně i hravý konec („morální ponaučení? Já ne" + žánrový twist). Když text přepíše do téhle polohy, **neopravuj ho zpátky do třetí osoby** — to je záměr, ne chyba. Default skillu (třetí osoba, žádné „já", žádné otázky na čtenáře) platí pro klasické explainery ze zdroje, ne pro tyhle autorské sloupky.
