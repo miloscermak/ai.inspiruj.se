@@ -6,6 +6,7 @@ source_name: "STEM / OpenAI / CEPR"
 source_url: "https://www.stem.cz/tri-ctvrtiny-cechu-a-cesek-maji-zkusenosti-s-umelou-inteligenci-nejvice-je-pohani-zvedavost-a-vnimaji-ji-jako-prilezitost/"
 excerpt: "Tři čtvrtiny Čechů AI vyzkoušely, většina ji ale používá jako chytřejší Google. Skutečná propast není v přístupu k nástroji, ale v tom, jak hluboko ho kdo zúročí."
 ---
+(Zajímá vás adopce AI do běžného života i práce? Na webu Inspiruj.se máme termíny letních a záříjových workshopů AI Masterclass. Za tři roky našimi workshopy a přednáškami prošlo přes 10 tisíc lidí.)
 
 Úspěch Česka v adopci AI? Na první pohled to tak vypadá. Podle dubnového průzkumu STEM používá umělou inteligenci pravidelně nebo občas 59 procent dospělých uživatelů Internetu a dalších dvanáct ji aspoň vyzkoušelo. Za jediný rok se zvedl počet pravidelných uživatelů  zosmadvaceti na devětapadesát procent a podíl lidí, kteří o AI „zatím nic nevědí", spadl z čtyřiadvaceti procent na devět. Aspoň základní zkušenost tak s nástroji AI mají tři čtvrtiny populace. Za tři roky skvělý výsledek.
 
