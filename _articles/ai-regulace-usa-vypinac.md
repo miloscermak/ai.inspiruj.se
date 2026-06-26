@@ -4,7 +4,7 @@ date: 2026-06-26
 image: ai-regulace-usa-vypinac.png
 source_name: "The Washington Post"
 source_url: "https://www.washingtonpost.com/opinions/2026/06/19/trump-vs-anthropic-dangerous-fight-over-ai-rules/"
-excerpt: "Trumpova administrativa za šest týdnů přešla od rétoriky volného trhu k faktické regulaci frontierových modelů. Ne zákonem, ale exportní kontrolou a telefonátem. A přesně to může být horší než nic."
+excerpt: "Trumpova administrativa za šest týdnů přešla od rétoriky volného trhu k faktické regulaci tzv. hraničních modelů. Děje se tak nahodile a napředvídatelně, místo zákonů jsou nejpoužívanějším nástrojem telefonáty."
 ---
 
 Roky platilo: Amerika inovuje, Evropa reguluje. Nebo v delší verzi, kterou zpopularizovala právnička Anu Bradfordová: USA vynalézá, Čína kopíruje, Evropa reguluje. Ale teď dostala vhuť regulovat také Trumpova administrativa. A dělá to tak, jako zatím skoro všechno: razantně, nepředvídatelně, za pochodu. Zatímco Evropa píše zákony (pomalu, nudně, ale předvídatelně), Washington reguluje telefnáty a exportními nařízeními. 
