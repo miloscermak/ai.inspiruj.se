@@ -25,7 +25,7 @@ Fareed Zakaria ve Washington Post napsal: tohle je první viditelná bitva o to,
 
 Odstavení Anthropicu trvalo hodiny a sledovala ho každá vláda světa. Analytik RAND Europe Afek Shamir to shrnul tak, že kauza ukázala, že "vypínač" existuje a že ho vláda může kdykoli použít. Francouzský politik Gabriel Attal přirovnal postup americké administrativy k íránské blokádě Hormuzského průlivu. Takže se nelze divit, že státy, které zvažovaly závislost na americké AI, se teď pozorněji dívají po čínských modelech s otevřenými parametry (třeba DeepSeek V4) a hledají vlastní strategie. 
 
-Definici "hraničního modelu" bychom se měli dozvědět do 1. srpna. Soudní spor Anthropica a Pentagonu zase napoví, jak volně může vláda podobné kroky opakovat bez opory zákona. Jisté je toto: Spojené státy předvedly, že umějí regulovat AI bez Kongresu, bez kritérií a bez varování. Že je to "lepší než nic" lze účinně pochybovat.
+Definici "hraničního modelu" bychom se měli dozvědět do 1. srpna. Soudní spor Anthropicu a Pentagonu zase napoví, jak moc má vláda v tomhle "kovbojském" stylu regulace volnou ruku. Ale určitě neplatí, že je tahle regulace "lepší než nic". A že může ohrozit to, v čem Amerika exceluje, a to jsou zmíněné inovace. Pak bude platit: Evropa regulu, Amerika taky a Čína se směje.
 
 ---
 
